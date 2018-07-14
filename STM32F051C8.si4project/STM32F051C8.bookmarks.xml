@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceInsightBookmarks
+	AppVer="4.00.0084"
+	AppVerMinReader="4.00.0009"
+	>
+	<Bookmarks>
+		<Mark
+			Name="8959279465045041708102"
+			Comment="写代码"
+			File="F051c8_test\Core\Src\main.c"
+			Line="444"
+			Column="1"
+			Symbol="StartDefaultTask"
+			SymbolInstance="1"
+			SymbolType="Function"
+			LineOffset="2"
+			/>
+	</Bookmarks>
+</SourceInsightBookmarks>

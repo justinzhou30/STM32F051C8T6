@@ -1,0 +1,3 @@
+---- GPIOEx_Alternate_function_selection Matches (2 in 2 files) ----
+{anonGPIO_InitTypeDef} in stm32f0xx_hal_gpio.h (F051c8_test\Drivers\STM32F0xx_HAL_Driver\Inc) :                             This parameter can be a value of @ref GPIOEx_Alternate_function_selection */
+stm32f0xx_hal_gpio_ex.h (F051c8_test\Drivers\STM32F0xx_HAL_Driver\Inc) line 61 : /** @defgroup GPIOEx_Alternate_function_selection GPIOEx Alternate function selection
